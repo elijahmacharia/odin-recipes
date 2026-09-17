@@ -7,4 +7,5 @@ In this project I'll:
 6. I'll use the absolute and the relative links. 
 7. I'll display an image on a webpage using HTML. 
 
-I gues thats all for the project. 
+I guess thats all for the project. 
+Here's the link to the project [odin-recipes](https://odin-recipies.netlify.app/)
