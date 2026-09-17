@@ -6,3 +6,5 @@ In this project I'll:
 5. I will create links to pages on other websites on the internet. 
 6. I'll use the absolute and the relative links. 
 7. I'll display an image on a webpage using HTML. 
+
+I gues thats all for the project. 
